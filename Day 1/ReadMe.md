@@ -9,4 +9,6 @@ Implementing the numpy arrays
 For forming DataFrame and also for the binary conversion
 # matplotlib:-
 For plotting the different graphs showing the training and testing sets of data
+
+
 In this code I have calculated the best theta and the best accuracy value in a predefined range for the theta, that is, 1-30 including the boundaries and used this best calculated theta for the test data accuracy calculations and prediction.
