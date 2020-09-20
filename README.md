@@ -4,3 +4,5 @@ Practising everyday to implement what we study gives a boost to both our brain p
 Using libraries like numpy, pandas, matplotlib and scikit-learn to calculate the accuracies and the best value of theta for MP Neuron in Aritificial Neural Network.
 # Day 2:-
 Implementation of Perceptron using Logic AND Gate for two inputs and three inputs.
+# Day 3:-
+Implementation of Perceptron using Logic OR Gate for two and three inputs.
