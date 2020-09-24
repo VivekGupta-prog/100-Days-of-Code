@@ -1,5 +1,5 @@
 # DAY 4
-In these codes I have implemented the Login XOR Gate checking method of a Perceptron.
+In these codes I have implemented the Logic XOR Gate checking method of a Perceptron.
 
 # PERCEPTRON
 A perceptron is a single neuron based system in Artificial Neural Networks. It gives output as y-cap and testifies it with the theoritical outputs of the Logic table. The formula used is:-
