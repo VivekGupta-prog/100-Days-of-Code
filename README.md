@@ -9,3 +9,5 @@ Implementation of Perceptron using Logic AND Gate for two inputs and three input
 Implementation of Perceptron using Logic OR Gate for two and three inputs.
 # Day 4:-
 Implementation of Perceptron using Logic XOR Gate for two and three inputs.
+# Day 5:-
+Implementation of Perceptron using Logic NOR Gate for two and three inputs.
